@@ -16,6 +16,8 @@ for state management in a React application.
 - Vite
 
 ## Run Locally
-Fork this repository into your local syatem
+Fork this repository into your local system
+
 npm install
+
 npm run dev
